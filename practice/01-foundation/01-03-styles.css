@@ -18,6 +18,11 @@ h1 {
   margin-top: 0;
 }
 
+.hint {
+  margin: 12px 0 16px;
+  color: #475569;
+}
+
 .topic-list {
   padding-left: 20px;
   line-height: 1.8;

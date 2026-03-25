@@ -1,0 +1,5 @@
+{
+  "lesson": "01-05",
+  "focus": ["git diff", "git diff --staged", "git log"],
+  "statusCheck": true
+}

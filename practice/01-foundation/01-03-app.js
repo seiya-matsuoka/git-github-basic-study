@@ -3,6 +3,7 @@ const message = document.getElementById("message");
 
 if (button && message) {
   button.addEventListener("click", () => {
-    message.textContent = "add → commit の流れを CLI で確認します。";
+    console.log("01-05 diff/log lesson");
+    message.textContent = "差分確認と履歴確認はどちらも重要です。";
   });
 }
