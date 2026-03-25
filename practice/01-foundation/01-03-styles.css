@@ -18,6 +18,11 @@ h1 {
   margin-top: 0;
 }
 
+.topic-list {
+  padding-left: 20px;
+  line-height: 1.8;
+}
+
 button {
   padding: 8px 16px;
   border: 0;

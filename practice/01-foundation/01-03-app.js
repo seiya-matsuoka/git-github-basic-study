@@ -3,6 +3,6 @@ const message = document.getElementById("message");
 
 if (button && message) {
   button.addEventListener("click", () => {
-    message.textContent = "Git の状態確認は CLI で行います。";
+    message.textContent = "add → commit の流れを CLI で確認します。";
   });
 }
