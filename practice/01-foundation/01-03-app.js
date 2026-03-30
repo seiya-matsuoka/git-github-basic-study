@@ -3,7 +3,7 @@ const message = document.getElementById("message");
 
 if (button && message) {
   button.addEventListener("click", () => {
-    console.log("01-05 diff/log lesson");
-    message.textContent = "差分確認と履歴確認はどちらも重要です。";
+    console.log("feature branch practice");
+    message.textContent = "この変更は feature branch 側で作られています。";
   });
 }
