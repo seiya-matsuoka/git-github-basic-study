@@ -1,5 +1,5 @@
 # 03-02 Amend Note
 
-- このファイルは amend の練習で使う
-- 最初のコミットでは一部だけ add する
-- そのあと amend で修正する
+- 最初の commit では reset-demo.txt を add し忘れる
+- そのあと commit --amend で直前コミットを修正する
+- amend は直前コミットの内容とメッセージを置き換える
