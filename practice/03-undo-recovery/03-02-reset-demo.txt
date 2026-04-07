@@ -1,0 +1,2 @@
+03-02 reset demo baseline
+このファイルに行を追加しながら reset の違いを確認する
