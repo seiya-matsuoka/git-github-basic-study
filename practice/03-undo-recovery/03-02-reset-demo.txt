@@ -1,2 +1,5 @@
 03-02 reset demo baseline
 このファイルに行を追加しながら reset の違いを確認する
+amend の段階で追加し忘れたファイルとして扱う
+soft reset demo line
+mixed reset demo line
