@@ -3,3 +3,4 @@
 - baseline for tag lesson
 - create lightweight and annotated tags
 - lightweight tag target commit
+- annotated tag target commit
