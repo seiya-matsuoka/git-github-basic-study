@@ -1,7 +1,7 @@
-const tasks = ["status", "stash", "switch"];
+const tasks = ["status", "stash", "switch", "apply", "pop"];
 
 function printTasks() {
-  console.log("Current tasks:", tasks.join(", "));
+  console.log("Stash lesson tasks:", tasks.join(" -> "));
 }
 
 printTasks();
