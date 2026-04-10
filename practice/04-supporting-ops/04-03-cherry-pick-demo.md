@@ -2,3 +2,4 @@
 
 - baseline line
 - source commit A
+- source commit B
