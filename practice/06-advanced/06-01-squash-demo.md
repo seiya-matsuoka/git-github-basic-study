@@ -2,3 +2,4 @@
 
 - baseline line
 - squash commit A
+- squash commit B
