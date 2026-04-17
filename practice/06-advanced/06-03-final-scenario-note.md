@@ -6,3 +6,4 @@
 - feature branch work started
 - amend applied before push
 - main side update before feature merge
+- reflog rescue line
